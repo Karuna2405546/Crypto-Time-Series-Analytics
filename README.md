@@ -22,7 +22,11 @@ This project demonstrates an end-to-end cryptocurrency analytics pipeline includ
 - Time Series Forecasting
 
 ## 📊 Dashboard Preview
-(Add Screenshot Here)
+## 📊 Dashboard Preview
+
+![Overview](documentation/page1_Overview.png)
+![Analysis](documentation/page2_analysis.png)
+![Summary](documentation/page3_Summary.png)
 
 ## 👩‍💻 Created By
 Karuna Baviskar
